@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the main member of heStudio and my projects are mainly on Gitee and Gitlab. Please move to Gitee or Gitlab to find me.
+We're gradually switching our project to Github, and you can check out our project at https://github.com/hestudio-community
 
 - Blog: https://www.hestudio.net
 - Gitlab: https://gitlab.com/hestudio
